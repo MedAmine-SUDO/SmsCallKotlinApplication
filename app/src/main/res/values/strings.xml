@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MySecondAndroidProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">TP2 - De. Mobile Android</string>
+    <string name="nav_header_subtitle">Mohamed Amine BEN AFIA</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_appel_normal">Appel Normal</string>
+    <string name="menu_appel_urgence">Appel d\'Urgence</string>
+    <string name="menu_sms">SMS</string>
+    <string name="menu_smsN">SMS Normal</string>
+    <string name="menu_smsU">SMS d\'Urgence</string>
+    <string name="menu_quit">Quitter</string>
+</resources>
